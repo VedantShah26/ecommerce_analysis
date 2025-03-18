@@ -48,8 +48,8 @@ wheels/
 *.sqlite3
 
 # Generated files
-predictions/
-visualizations/
+!visualizations/
+!predictions/
 
 # Logs
 *.log
